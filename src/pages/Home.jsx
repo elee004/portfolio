@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Main>
       <Hero>
-        <HeroEyebrow>hi, i'm stephanie</HeroEyebrow>
+        <HeroEyebrow>hi, i'm stephanie lee</HeroEyebrow>
         <HeroTitle>UX Researcher</HeroTitle>
         <HeroSub>
           Georgia Tech Master of Human-Computer Interaction alum.
